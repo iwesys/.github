@@ -48,4 +48,4 @@ This is not a course platform. The same session that **ships your result** also 
 
 ⭐ **[iwesys/IWE](https://github.com/iwesys/IWE)** — the template distribution. Get the template and make it yours: protocols, AI-agent roles, memory, and knowledge formalization on top of Claude Code — or any AI agent that can read files in a repository.
 
-<sub>MIT-licensed · 110+ forks of the source template · English distribution auto-published from a living Russian-language source by a translation pipeline · in active development</sub>
+<sub>MIT-licensed · in active development</sub>
