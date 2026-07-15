@@ -36,7 +36,7 @@ The vendor sells you rows 1–2. Rows 3–6 can't be bought — they accumulate 
 
 ## A guide that rewrites itself around your work
 
-This is where the six types converge: a personal guide compiled from your diagnosed stage, your real activity, and your own knowledge base — and recompiled as you move, around the work you actually did. Not a one-size-fits-all course. The guide engine is running in pilot today and ships to the template as it hardens.
+This is where the six types converge: a personal guide compiled from your diagnosed stage, your real activity, and your own knowledge base — and recompiled as you move, around the work you actually did. Not a one-size-fits-all course. The same guide engine runs standalone as `guide-kit`, powers the hosted platform, and ships inside the template as it hardens — one engine, not three.
 
 ## One session, two outcomes
 
@@ -47,5 +47,7 @@ This is not a course platform. The same session that **ships your result** also 
 ### Start here
 
 ⭐ **[iwesys/IWE](https://github.com/iwesys/IWE)** — the template distribution. Get the template and make it yours: protocols, AI-agent roles, memory, and knowledge formalization on top of Claude Code — or any AI agent that can read files in a repository.
+
+**[iwesys/guide-kit](https://github.com/iwesys/guide-kit)** — the guide engine, standalone. Bring your own notes and your own AI assistant (any vendor, or a local model) and get a personal development guide — no account, no cloud, nothing leaves your machine. The same engine also runs the guide inside the hosted platform and the IWE template above.
 
 <sub>MIT-licensed · in active development</sub>
