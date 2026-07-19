@@ -50,4 +50,6 @@ This is not a course platform. The same session that **ships your result** also 
 
 **[iwesys/guide-kit](https://github.com/iwesys/guide-kit)** — the guide engine, standalone. Bring your own notes and your own AI assistant (any vendor, or a local model) and get a personal development guide — no account, no cloud, nothing leaves your machine. The same engine also runs the guide inside the hosted platform and the IWE template above.
 
+**[iwesys/growth-traits-lab](https://github.com/iwesys/growth-traits-lab)** — the research lab, independent of the platform team. Studies which characteristics — general and craft-specific — actually drive development, and what grows them. Open pre-registration, cohort forming now.
+
 <sub>MIT-licensed · in active development</sub>
